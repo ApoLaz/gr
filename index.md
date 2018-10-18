@@ -11,6 +11,10 @@ header:
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
 ---
 
+<div class="twitter">
+  <a class="twitter-timeline" href="https://twitter.com/ApoLaz2?ref_src=twsrc%5Etfw">Tweets by ApoLaz2</a> <script async  src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 <div class="feature__wrapper">
 
   {% assign random = site.time | date: "%s%N" | modulo: site.biography.size %}
