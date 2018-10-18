@@ -12,7 +12,7 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 ---
 
 <div class="twitter">
-  <a class="twitter-timeline" href="https://twitter.com/ApoLaz2?ref_src=twsrc%5Etfw">Tweets by ApoLaz2</a> <script async  src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/ApoLaz2?ref_src=twsrc%5Etfw">Tweets by ApoLaz2</a> <script async  src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div class="feature__wrapper">
